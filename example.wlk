@@ -69,7 +69,7 @@ object roque {
 	}
 
 	method alimentar(alimento) {
-		aveDeRoque.comida(alimento)
+		aveDeRoque.comer(alimento)
 		cenas += 1
 	}
 
